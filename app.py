@@ -37,7 +37,7 @@ def load(mode):
     return model, df
 
 
-st.title("PCOS Risk Classification")
+st.title("PCOS Risk Assessment")
 st.caption("Hasil skrining ini merupakan alat bantu pembelajaran, bukan diagnosis medis."
            "Model Naive Bayes dilatih menggunakan dataset pasien dari 10 rumah sakit di Kerala, India."
            "Hasil skrining perlu dikonfirmasi oleh dokter.")
