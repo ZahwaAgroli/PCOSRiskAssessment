@@ -1,4 +1,4 @@
-# PCOS Risk Assesment System Using Naive Bayes Classification
+# PCOS Risk Assessment System Using Naive Bayes Classification
 
 Sistem skrining risiko *Polycystic Ovary Syndrome* (PCOS) dengan **Naive Bayes hibrida** (Gaussian + Bernoulli) yang diimplementasikan dengan NumPy, dalam dua mode: **mandiri** (tanpa USG/lab) dan **klinis** (dengan USG & AMH).
 
